@@ -300,15 +300,15 @@ h6 {
 
 /* Articles */
 #article .meta {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background: #eee;
-    padding: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #eee;
+  padding: 0.5rem;
 }
 
 #article .meta .category {
-    margin-top: 0.4rem;
+  margin-top: 0.4rem;
 }
 
 /* Footer */
@@ -350,5 +350,3 @@ h6 {
 }
 
 /* About  */
-
-Sports
